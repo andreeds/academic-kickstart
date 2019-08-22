@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: André E. dos Santos
 
 # Username (this should match the folder name)
 authors:
@@ -10,58 +10,59 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Regina
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: A third-year Ph.D. student in Computer Science researching probabilistic graphical models and deep learning models
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Probabilistic Graphical Models
+- Industry 4.0
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science 
+    institution: University of Regina
+    year: "2019 <i style='color: rgb(192, 192, 241922)'>expected</i>"
+  - course: MSc in Computer Science
+    institution: University of Regina
+    year: 2016
+  - course: "BSc in Industrial Engineering<i style='color: rgb(192, 192, 241922)'>*</i>"
+    institution: University of Santa Catarina State
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: cv
+  icon_pack: ai
+  link: files/resume.pdf
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.br/citations?user=GUPxfFAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/andreeds
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/andr%C3%A9-dos-santos-00371371
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:dossantos@cs.uregina.ca'  # For a direct email link, use "mailto:test@example.org". or '#contact' 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "dossantos@cs.uregina.ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,6 +71,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ph.D. student in Computer Science studying Artificial Intelligence at the University of Regina. My research interest involves Insudtry 4.0, Deep Learning and Probabilistic Graphical Models, including Bayesian networks, Sum-Product networks, and Join Tree Propagation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+<!-- With the knowledge already acquired in academic life, ally with his creative, hardworking, fast learner characteristics, has demonstrated efficiency in project management and assessment and control of manufacturing processes, always with a focus on the culture of excellence, teamwork and problem-solving. -->
+
+<!-- Excellence in academic life, established through the awards and scholarships. Interested in Artificial Intelligence, Industry 4.0, and Applied Statistic for Engineering, in order to improve the quality aspects of the industry.  -->
