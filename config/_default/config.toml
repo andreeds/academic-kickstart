@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "DOS SANTOS"
+title = "Academic"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -13,10 +13,10 @@ baseurl = "https://andreeds.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; {year}"
+copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-60087433-1"
+googleAnalytics = ""
 
 ############################
 ## Advanced options below ##
@@ -26,7 +26,7 @@ googleAnalytics = "UA-60087433-1"
 theme = "academic"
 
 # Get last modified date for content from Git?
-enableGitInfo = true
+enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
