@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Candidate | Professor | Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dossantos@cs.uregina.ca'  # For a direct email link, use "mailto:test@example.org". or '#contact' 
+  link: 'mailto:dossantos@uregina.ca'  # For a direct email link, use "mailto:test@example.org". or '#contact' 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "dossantos@cs.uregina.ca"

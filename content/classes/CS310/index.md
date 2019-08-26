@@ -24,12 +24,12 @@ Tuesday and Thursday\\
 CL 317
 <br><br>
 
-## Office hours:
+## Office Hours[^1]:
 Monday and Wednesday\\
 10:00am - 11:30am \\
-CW 308.3.1\\
-or [by appointment](maiolto:dossantos@cs.uregina.ca)
-<br><br>
+<b>CW 308.3.1</b>\\
+[^1]:Or [by appointment](maiolto:dossantos@cs.uregina.ca)
+<br>
 
 ## Class Important Links
 * {{% staticref "CS310/Syllabus.pdf" "newtab" %}}Syllabus{{% /staticref %}}
@@ -39,5 +39,5 @@ or [by appointment](maiolto:dossantos@cs.uregina.ca)
 <br><br>
 
 ## Notes:
-TBA
+*TBA*
 

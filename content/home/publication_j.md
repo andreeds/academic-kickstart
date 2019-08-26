@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Refereed Conference Papers"
+subtitle = "Refereed Journal Papers"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -27,7 +27,7 @@ subtitle = "Refereed Conference Papers"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "1" 
+    publication_type = "2" 
     #0 = Uncategorized,1 = Conference paper,2 = Journal article
     exclude_featured = false
   
