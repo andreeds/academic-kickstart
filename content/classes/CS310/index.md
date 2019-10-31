@@ -39,5 +39,9 @@ Monday and Wednesday\\
 <br><br>
 
 ## Notes:
-*TBA*
+<!-- {{% staticref "CS310/Syllabus.pdf" "newtab" %}}Syllabus{{% /staticref %}}
+{{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vSZEabRmVg-iEMIgkv3CA2Ii_rkOtK0CfQ_582StdTc6x6kN_BbteeFV7XTwassXimpJ_YgjeFe7IYt/pub" >}}  -->
+{{% alert note %}}
+Our class starts this **Thursday, Sept 5th, 4:30 pm, Classroom Building room 317.**
+{{% /alert %}}
 
