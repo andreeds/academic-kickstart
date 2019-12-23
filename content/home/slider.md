@@ -30,7 +30,8 @@ height = "350px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Play"
-  cta_url = "https://jhonatanoliveira.github.io/darwiniannetworks/game/"
+  #<!-- cta_url = "https://andreeds.github.io/dns_lab/index.html" -->
+  cta_url = "DNS/index.html"
   cta_icon_pack = "fas"
   cta_icon = "play"
 
@@ -45,7 +46,7 @@ height = "350px"
   
 
   cta_label = "UofR Jiu-Jitsu Club"
-  cta_url = "https://www.facebook.com/uofrjiujitsu/"
+  cta_url = "http://uofrjiujitsu.com/"
   #cta_icon_pack = "fas"
   #cta_icon = "play"
 

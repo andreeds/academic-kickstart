@@ -30,12 +30,12 @@ education:
   courses:
   - course: PhD in Computer Science 
     institution: University of Regina
-    year: "2019 <i style='color: rgb(192, 192, 241922)'>expected</i>"
+    year: "Winter 2020" #"<i style='color: rgb(192, 192, 241922)'>expected</i>"
   - course: MSc in Computer Science
-    institution: University of Regina
+    institution: #University of Regina
     year: 2016
-  - course: "BSc in Industrial Engineering<i style='color: rgb(192, 192, 241922)'>*</i>"
-    institution: University of Santa Catarina State
+  - course: "BSc in Industrial Engineering" #"<i style='color: rgb(192, 192, 241922)'>*</i>"
+    institution: #University of Santa Catarina State
     year: 2014
 
 # Social/Academic Networking
