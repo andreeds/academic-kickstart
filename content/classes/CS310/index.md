@@ -1,7 +1,7 @@
 ---
 linktitle: An Example Course
-title: "CS310 -  Discrete Computational Structures"
-subtitle: "Fall 2019"
+title: "DISCRETE COMPUTATIONAL STRUCTURES"
+subtitle: "CS310 - 002"
 summary: CS310 Discrete Computational Structures
 
 # date: "<i style='color: rgb(192, 192, 241922)'>2019-08-31</i>"

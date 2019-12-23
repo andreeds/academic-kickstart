@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "CS310"  # A link title for your page.
-  url = "classes/cs310"  # The URL of your page.
+  name = "Teaching"  # A link title for your page.
+  url = "classes/teaching"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
 
 #[[main]]
